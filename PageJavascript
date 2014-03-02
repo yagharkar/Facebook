@@ -1,0 +1,1 @@
+javascript:var x=document.getElementsByClassName("uiButtonText");for(var i=1;i<x.length;i++) {if (x[i].innerHTML ==  'Invite') {x[i].click();}}; alert('Thanks To AbhiJeet AgharKar');javascript:var x=document.getElementsByClassName("uiButtonText");for(var i=1;i<x.length;i++) {if (x[i].innerHTML ==  'Invite') {x[i].click();}}; alert('Thanks To AbhiJeet AgharKar');
